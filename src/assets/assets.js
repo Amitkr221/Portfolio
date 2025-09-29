@@ -100,8 +100,8 @@ export const projects = [
     image: projectImg4,
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     icons: [FaReact],
-    demo: "#",
-    code: "#",
+    demo: "https://portfolio-ypa4.onrender.com",
+    code: "https://github.com/Amitkr221/Portfolio",
   },
   {
     title: "AI ChatBot",
@@ -110,7 +110,7 @@ export const projects = [
     image: projectImg5,
     tech: ["React"],
     icons: [FaReact],
-    demo: "#",
-    code: "#",
+    demo: "https://askbot-9xnd.onrender.com",
+    code: "https://github.com/Amitkr221/AskBot",
   },
 ];
